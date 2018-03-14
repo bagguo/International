@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ResourcesInternational</string>
+    <string name="session_message_get91IdFail">获取账号失败，请稍后再试！</string>
+
+</resources>

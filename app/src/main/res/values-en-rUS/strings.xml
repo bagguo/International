@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="session_message_get91IdFail">獲取賬號失敗，請稍後再試！</string>
+
+</resources>
